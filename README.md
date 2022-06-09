@@ -1,6 +1,6 @@
 Requirements:
 
-FFmpeg
+FFmpeg \n
 Spotify-dl library
 
 Join my discord if you need help:
